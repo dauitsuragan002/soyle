@@ -42,9 +42,23 @@ python app.py
   - Asel (ID: 3)
   - Duman (ID: 4)
   - Gulzhanat (ID: 5)
-
+- Text length up to 271 characters
 - MP3 file generation
 - Simple API
+
+## TODO
+
+- [x] Increase text length limit (271 characters)
+- [ ] Add support for longer texts
+  - [ ] Split long text into smaller chunks
+- [x] Add error handling
+- [x] Add text validation
+- [ ] Add subtitle maker
+  - [ ] Generate SRT files
+  - [ ] Support multiple timestamp formats
+  - [ ] Add subtitle preview
+- [ ] Add caching for frequently used phrases
+- [ ] Add batch processing support
 
 ## Examples
 
