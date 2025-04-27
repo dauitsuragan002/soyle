@@ -1,4 +1,4 @@
-# Qazaq TTS
+# Qazaq TTS (ISSAI)
 
 A simple utility for converting text to speech in Kazakh language using [ISSAI](https://issai.nu.edu.kz) TTS service.
 
